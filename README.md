@@ -9,9 +9,7 @@
 
 ## About me 👾
 
-Hi! I am a developer with more than three years of commercial experience. I have studied math and computer science at Saint Petersburg State University. Today, I am a full-time developer at Traveltech working with Ruby on Rails and Nuxt. Besides Web, I enjoy low-level programming, design, and indie-games.
-
-My professional goal for the next 1-2 years is to further develop horizontally and expand my knowledge in the direction of System Design and architecture in general.
+Hello! My name is Daniil, and I'm a web developer currently working at Travel Tech with Ruby on Rails and Vue/Nuxt. I'm delving into Go these days and working on some pet projects (definitely check out the Repositories tab). In addition to my main work, I enjoy learning about [algorithms](https://leetcode.com/darkwingdck/), watching movies, and playing indie games.
 
 ## My stack :hammer:
 **Languages**: Python, Go, Ruby, SQL, JavaScript
