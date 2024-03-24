@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/daniilzakharov/" target="_blank" rel="nofollow"><img align="left" alt="Linkdein" width="30px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=darkwingdck0@gmail.com" target="_blank" rel="nofollow"><img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/doodle/48/null/gmail.png"/></a>
+  <a href="mailto:darkwingdck0@gmail.com" target="_blank" rel="nofollow"><img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/doodle/48/null/gmail.png"/></a>
   <a href="https://t.me/darkwingdck" target="_blank" rel="nofollow"><img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/doodle/48/null/paper-plane--v1.png"/></a>
 </div>
 <br />
