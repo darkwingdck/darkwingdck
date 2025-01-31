@@ -10,7 +10,9 @@
 
 ## About me 👾
 
-Hello! My name is Daniil, and I'm a web developer currently working at Travel Tech with Ruby on Rails and Vue/Nuxt. I'm delving into Go these days and working on some pet projects (definitely check out the Repositories tab). In addition to my main work, I enjoy learning about algorithms, watching movies, and playing indie games.
+Hello! My name is Daniil, and I'm a software engineer currently working in the fintech sector at Ozon.
+
+I work with Golang and PostgreSQL daily, honing my skills in backend development. Previously, I was a frontend engineer at a travel tech company, where I gained extensive knowledge in TypeScript, Vue, and web development in general. Outside of work, I enjoy delving into algorithms, watching movies, and playing indie games, with the aspiration of creating my own game someday.
 
 ## My stack :hammer:
 **Languages**: Python, Go, Ruby, SQL, JavaScript
