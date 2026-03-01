@@ -22,3 +22,5 @@ Experienced in building latency-sensitive microservices handling up to 80K RPS a
 **Architecture and Design**:  Microservices, gRPC, Apache Kafka, REST APIs, UML modeling
 
 **Developer Tools**: Docker, Kubernetes, Git, CI/CD
+
+**Free time activities**: Gamedev, Japanese, Art, Cyber Security, Rubik's cube
