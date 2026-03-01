@@ -10,17 +10,13 @@
 
 ## About me 👾
 
-Hello! My name is Daniil, and I'm a software engineer currently working in the fintech sector at Ozon.
-
-I work with Golang and PostgreSQL daily, honing my skills in backend development. Previously, I was a frontend engineer at a travel tech company, where I gained extensive knowledge in TypeScript, Vue, and web development in general. Outside of work, I enjoy delving into algorithms, watching movies, and playing indie games.
+Hello! My name is Daniil, I am a backend engineer with 4+ years of experience designing and operating high-scale distributed systems in fintech and high-traffic consumer platforms. Experienced in building latency-sensitive microservices handling up to 80K RPS and serving 30M users, with a focus on reliability, fault tolerance, and operational excellence. Strong background in event-driven architectures, payment infrastructure, and system modularization. Actively contributing to architectural decisions, mentoring engineers, and driving end-to-end ownership of critical services.
 
 ## My stack :hammer:
-**Languages**: Go, SQL, gRPC, GraphQL, JavaScript, TypeScript, Ruby, Python
-
-**Frameworks**: Ruby on Rails, Vue/Nuxt, dlib, FastAPI
+**Languages**: Go, Ruby, Python, GraphQL, C++, JavaScript
 
 **Databases**: PostgreSQL, Redis, ElasticSearch, ClickHouse
 
-**Architecture and Design**: Microservices architecture, Apache Kafka, REST API, UML, Feature Sliced Designw
+**Architecture and Design**:  Microservices, gRPC, Apache Kafka, REST APIs, UML modeling
 
-**Developer Tools**: Docker, Kubernetes, Git, Allure
+**Developer Tools**: Docker, Kubernetes, Git, CI/CD
