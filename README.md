@@ -10,7 +10,9 @@
 
 ## About me 👾
 
-Hello! My name is Daniil, I am a backend engineer with 4+ years of experience designing and operating high-scale distributed systems in fintech and high-traffic consumer platforms. Experienced in building latency-sensitive microservices handling up to 80K RPS and serving 30M users, with a focus on reliability, fault tolerance, and operational excellence. Strong background in event-driven architectures, payment infrastructure, and system modularization. Actively contributing to architectural decisions, mentoring engineers, and driving end-to-end ownership of critical services.
+Hello! My name is Daniil, I am a backend engineer with 4+ years of experience designing and operating high-scale distributed systems in fintech and high-traffic consumer platforms.
+
+Experienced in building latency-sensitive microservices handling up to 80K RPS and serving 30M users, with a focus on reliability, fault tolerance, and operational excellence. Strong background in event-driven architectures, payment infrastructure, and system modularization. Actively contributing to architectural decisions, mentoring engineers, and driving end-to-end ownership of critical services.
 
 ## My stack :hammer:
 **Languages**: Go, Ruby, Python, GraphQL, C++, JavaScript
