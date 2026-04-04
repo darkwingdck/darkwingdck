@@ -10,9 +10,11 @@
 
 ## About me 👾
 
-Hello! My name is Daniil, I am a backend engineer with 4+ years of experience designing and operating high-scale distributed systems in fintech and high-traffic consumer platforms.
+Hi! My name is Daniil, and I’m a backend developer with nearly 5 years of experience. Currently, I work at Ozon Bank, using Go, gRPC, PostgreSQL, and Kafka.
 
-Experienced in building latency-sensitive microservices handling up to 80K RPS and serving 30M users, with a focus on reliability, fault tolerance, and operational excellence. Strong background in event-driven architectures, payment infrastructure, and system modularization. Actively contributing to architectural decisions, mentoring engineers, and driving end-to-end ownership of critical services.
+Previously, I worked in travel tech and outsourcing, where we built products for the Saint Petersburg Metro. I’ve also had a chance to work as a programming teacher for kids.
+
+In my free time, I enjoy exploring game development, learning Japanese, and spending time with my three cats. If you have an idea for an interesting game or a pet project, feel free to reach out — I’d be glad to help with my experience!
 
 ## My stack :hammer:
 **Languages**: Go, Ruby, Python, GraphQL, C++, JavaScript
